@@ -1,0 +1,17 @@
+#!/bin/sh
+
+dir=/home/DAQ/vme-easiroc/Controller/CFT_InputDAC
+cd $dir
+
+if [ -e InputDAC_tmp.yml ]; then
+    prefix=`date +%Y%m%d%H%M%S`
+    cp $1 ./backup/$1.org.$prefix
+    chmod 664 $1
+    cp InputDAC_tmp.yml $1
+    chmod 444 $1
+    echo "$1 has copied to $dir$1.org.$prefix and InputDAC_tmp.yml has copied to $1"
+    echo "Done!"
+else 
+    echo "File InputDAC_tmp.yml was not found."
+    echo "Failed. (>A<)"
+fi

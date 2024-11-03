@@ -1,0 +1,39 @@
+#for FBT
+
+EASIROC1:
+  Capacitor HG PA Fdbck: 200fF
+  Capacitor LG PA Fdbck: 200fF
+#  Time Constant HG Shaper: 50ns
+  Time Constant HG Shaper: 175ns # added by ChangeShapingTime
+#  Time Constant LG Shaper: 50ns
+  Time Constant LG Shaper: 175ns # added by ChangeShapingTime
+#  DAC code: 600 
+#  DAC code: 845 # base line
+#  DAC code: 815 #1.5 p.e 20180528
+  DAC code: 795 #2.5 p.e 20180528
+#  DAC code: 770 #3.5 p.e 20180528
+#  DAC code: 750 #4.5 p.e 20180528
+  En_High_Gain_Slow Shaper: Disable
+  En_Low_Gain_Slow Shaper: Disable
+EASIROC2:
+  Capacitor HG PA Fdbck: same
+  Capacitor LG PA Fdbck: same
+#  Time Constant HG Shaper: same
+  Time Constant HG Shaper: 175ns # added by ChangeShapingTime
+#  Time Constant LG Shaper: same
+  Time Constant LG Shaper: 175ns # added by ChangeShapingTime
+#  DAC code: 600
+#  DAC code: 870 #1.5 p.e 20180528
+  DAC code: 845 #2.5 p.e 20180528
+#  DAC code: 825 #3.5 p.e 20180528
+#  DAC code: 805 #4.5 p.e 20180528
+#  DAC code: 910 # base line
+  En_High_Gain_Slow Shaper: Disable
+  En_Low_Gain_Slow Shaper: Disable
+
+High Gain Channel: 7
+Probe Channel: 7
+Probe: Out_fs
+SelectableLogic: OR64
+#SelectableLogic: 7
+TimeWindow: 1024

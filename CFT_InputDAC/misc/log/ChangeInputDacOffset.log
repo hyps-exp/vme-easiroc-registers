@@ -1,0 +1,851 @@
+[ChangeDacOffset] file name: InputDAC_36.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        47
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_36.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_36.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_36.yml.org.20170119161332.
+InputDAC_36.yml.offset_added has changed to be InputDAC_36.yml.
+Done!
+[ChangeDacOffset] file name: InputDAC_50.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        2
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_50.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_50.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_50.yml.org.20170119161348.
+InputDAC_50.yml.offset_added has changed to be InputDAC_50.yml.
+Done!
+[ChangeDacOffset] file name: InputDAC_63.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        63
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_63.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_63.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_63.yml.org.20170119161447.
+InputDAC_63.yml.offset_added has changed to be InputDAC_63.yml.
+Done!
+2017年  1月 19日 木曜日 16:17:05 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_64.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        0
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_64.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_64.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_64.yml.org.20170119161705.
+InputDAC_64.yml.offset_added has changed to be InputDAC_64.yml.
+Done!
+2017年  1月 19日 木曜日 16:20:26 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_71.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        31
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_71.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_71.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_71.yml.org.20170119162026.
+InputDAC_71.yml.offset_added has changed to be InputDAC_71.yml.
+Done!
+2017年  1月 19日 木曜日 16:21:22 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_72.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        23
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_72.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_72.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_72.yml.org.20170119162122.
+InputDAC_72.yml.offset_added has changed to be InputDAC_72.yml.
+Done!
+2017年  1月 19日 木曜日 16:21:56 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_72.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        6
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_72.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_72.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_72.yml.org.20170119162156.
+InputDAC_72.yml.offset_added has changed to be InputDAC_72.yml.
+Done!
+2017年  1月 19日 木曜日 16:22:35 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_77.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        2
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_77.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_77.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_77.yml.org.20170119162235.
+InputDAC_77.yml.offset_added has changed to be InputDAC_77.yml.
+Done!
+2017年  1月 19日 木曜日 16:22:46 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_77.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        41
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_77.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_77.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_77.yml.org.20170119162246.
+InputDAC_77.yml.offset_added has changed to be InputDAC_77.yml.
+Done!
+2017年  1月 19日 木曜日 16:23:25 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_79.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        6
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_79.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_79.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_79.yml.org.20170119162325.
+InputDAC_79.yml.offset_added has changed to be InputDAC_79.yml.
+Done!
+2017年  1月 19日 木曜日 16:24:08 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_81.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        46
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_81.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_81.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_81.yml.org.20170119162408.
+InputDAC_81.yml.offset_added has changed to be InputDAC_81.yml.
+Done!
+2017年  1月 19日 木曜日 16:24:31 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_81.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        62
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_81.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_81.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_81.yml.org.20170119162431.
+InputDAC_81.yml.offset_added has changed to be InputDAC_81.yml.
+Done!
+2017年  1月 19日 木曜日 16:24:46 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_82.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        33
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_82.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_82.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_82.yml.org.20170119162446.
+InputDAC_82.yml.offset_added has changed to be InputDAC_82.yml.
+Done!
+###########################################################
+2017年  1月 19日 木曜日 16:25:40 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_83.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        63
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_83.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_83.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_83.yml.org.20170119162540.
+InputDAC_83.yml.offset_added has changed to be InputDAC_83.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:27:51 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_84.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        14
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_84.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_84.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_84.yml.org.20170119162751.
+InputDAC_84.yml.offset_added has changed to be InputDAC_84.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:28:03 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_84.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        31
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_84.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_84.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_84.yml.org.20170119162803.
+InputDAC_84.yml.offset_added has changed to be InputDAC_84.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:28:21 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_85.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        30
+[ChangeDacOffset]        31
+[ChangeDacOffset]        32
+[ChangeDacOffset]        33
+[ChangeDacOffset]        34
+[ChangeDacOffset]        35
+[ChangeDacOffset]        36
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_85.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_85.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_85.yml.org.20170119162821.
+InputDAC_85.yml.offset_added has changed to be InputDAC_85.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:28:38 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_85.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        60
+[ChangeDacOffset]        61
+[ChangeDacOffset]        62
+[ChangeDacOffset]        63
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_85.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_85.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_85.yml.org.20170119162838.
+InputDAC_85.yml.offset_added has changed to be InputDAC_85.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:28:53 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_86.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        14
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_86.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_86.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_86.yml.org.20170119162853.
+InputDAC_86.yml.offset_added has changed to be InputDAC_86.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:29:04 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_86.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        0
+[ChangeDacOffset]        1
+[ChangeDacOffset]        2
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_86.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_86.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_86.yml.org.20170119162904.
+InputDAC_86.yml.offset_added has changed to be InputDAC_86.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:29:34 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_87.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        35
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_87.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_87.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_87.yml.org.20170119162934.
+InputDAC_87.yml.offset_added has changed to be InputDAC_87.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:29:41 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_87.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        31
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_87.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_87.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_87.yml.org.20170119162941.
+InputDAC_87.yml.offset_added has changed to be InputDAC_87.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:29:56 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_87.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        61
+[ChangeDacOffset]        62
+[ChangeDacOffset]        63
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_87.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_87.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_87.yml.org.20170119162956.
+InputDAC_87.yml.offset_added has changed to be InputDAC_87.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:30:23 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_88.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        15
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_88.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_88.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_88.yml.org.20170119163023.
+InputDAC_88.yml.offset_added has changed to be InputDAC_88.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:30:40 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_89.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        28
+[ChangeDacOffset]        29
+[ChangeDacOffset]        30
+[ChangeDacOffset]        31
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_89.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_89.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_89.yml.org.20170119163040.
+InputDAC_89.yml.offset_added has changed to be InputDAC_89.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:30:49 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_89.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        6
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_89.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_89.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_89.yml.org.20170119163049.
+InputDAC_89.yml.offset_added has changed to be InputDAC_89.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:31:07 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_90.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        31
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_90.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_90.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_90.yml.org.20170119163107.
+InputDAC_90.yml.offset_added has changed to be InputDAC_90.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:31:24 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_91.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        28
+[ChangeDacOffset]        29
+[ChangeDacOffset]        30
+[ChangeDacOffset]        31
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_91.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_91.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_91.yml.org.20170119163124.
+InputDAC_91.yml.offset_added has changed to be InputDAC_91.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:31:41 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_91.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        59
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_91.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_91.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_91.yml.org.20170119163141.
+InputDAC_91.yml.offset_added has changed to be InputDAC_91.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:31:58 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_92.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        41
+[ChangeDacOffset]        42
+[ChangeDacOffset]        43
+[ChangeDacOffset]        44
+[ChangeDacOffset]        45
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_92.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_92.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_92.yml.org.20170119163158.
+InputDAC_92.yml.offset_added has changed to be InputDAC_92.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:32:08 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_92.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        48
+[ChangeDacOffset]        49
+[ChangeDacOffset]        50
+[ChangeDacOffset]        51
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_92.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_92.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_92.yml.org.20170119163208.
+InputDAC_92.yml.offset_added has changed to be InputDAC_92.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:32:30 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_94.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        35
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_94.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_94.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_94.yml.org.20170119163230.
+InputDAC_94.yml.offset_added has changed to be InputDAC_94.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:32:37 JST
+Running the program "ChangeDacOffset"...
+[ChangeDacOffset] file name: InputDAC_94.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        53
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_94.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_94.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/InputDAC_94.yml.org.20170119163237.
+InputDAC_94.yml.offset_added has changed to be InputDAC_94.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 16:59:07 JST
+Running the program "ChangeDacOffset"...
+> ./misc/ChangeDacOffset -i6 -f6 -- InputDAC_72.yml -5
+[ChangeDacOffset] file name: InputDAC_72.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        6
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_72.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_72.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/backup/InputDAC_72.yml.org.20170119165907.
+InputDAC_72.yml.offset_added has changed to be InputDAC_72.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 17:00:00 JST
+Running the program "ChangeDacOffset"...
+> ./misc/ChangeDacOffset -i18 -f18 -- InputDAC_72.yml 5
+[ChangeDacOffset] file name: InputDAC_72.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        18
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_72.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_72.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/backup/InputDAC_72.yml.org.20170119170001.
+InputDAC_72.yml.offset_added has changed to be InputDAC_72.yml.
+Done!
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 17:02:09 JST
+Running the program "ChangeDacOffset"...
+> ./misc/ChangeDacOffset -i33 -f33 -- InputDAC_82.yml 5
+[ChangeDacOffset] file name: InputDAC_82.yml    offset value: 5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        33
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_82.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_82.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/backup/InputDAC_82.yml.org.20170119170209.
+InputDAC_82.yml.offset_added has changed to be InputDAC_82.yml.
+Done!
+## file diff check ##
+39c39
+<   - 389
+---
+>   - 394
+#####################
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 17:03:03 JST
+Running the program "ChangeDacOffset"...
+> ./misc/ChangeDacOffset -i30 -f34 -- InputDAC_85.yml -5
+[ChangeDacOffset] file name: InputDAC_85.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        30
+[ChangeDacOffset]        31
+[ChangeDacOffset]        32
+[ChangeDacOffset]        33
+[ChangeDacOffset]        34
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_85.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_85.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/backup/InputDAC_85.yml.org.20170119170303.
+InputDAC_85.yml.offset_added has changed to be InputDAC_85.yml.
+Done!
+== file diff check ==
+34,35c34,35
+<   - 382
+<   - 371
+---
+>   - 377
+>   - 366
+38,40c38,40
+<   - 407
+<   - 387
+<   - 405
+---
+>   - 402
+>   - 382
+>   - 400
+=====================
+###########################################################
+###########################################################
+2017年  1月 19日 木曜日 17:05:39 JST
+Running the program "ChangeDacOffset"...
+> ./misc/ChangeDacOffset -i35 -f35 -- InputDAC_87.yml -5
+[ChangeDacOffset] file name: InputDAC_87.yml    offset value: -5
+[ChangeDacOffset] ================
+[ChangeDacOffset]  Target Channel 
+[ChangeDacOffset] ----------------
+[ChangeDacOffset]        35
+[ChangeDacOffset] ================
+[ChangeDacOffset] The new DAC file "InputDAC_87.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_87.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/backup/InputDAC_87.yml.org.20170119170539.
+InputDAC_87.yml.offset_added has changed to be InputDAC_87.yml.
+Done!
+== file diff check ==
+41c41
+<   - 417
+---
+>   - 412
+=====================
+###########################################################
+###########################################################
+2017年  1月 22日 日曜日 12:16:51 JST
+Running the program "ChangeInputDacOffset"...
+> ./misc/ChangeInputDacOffset -a -- InputDAC_dummy.yml 10
+./misc/ChangeInputDacOffset.sh: line 44: ./misc/ChangeDacOffset: そのようなファイルやディレクトリはありません
+Changing the file names...
+InputDAC_dummy.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/backup/InputDAC_dummy.yml.org.20170122121651.
+InputDAC_dummy.yml.offset_added has changed to be InputDAC_dummy.yml.
+Done!
+#### file diff check ####
+#########################
+###########################################################
+###########################################################
+2017年  1月 22日 日曜日 12:17:10 JST
+Running the program "ChangeInputDacOffset"...
+> ./misc/ChangeInputDacOffset -a -- InputDAC_dummy.yml -10
+./misc/ChangeInputDacOffset.sh: line 44: ./misc/ChangeDacOffset: そのようなファイルやディレクトリはありません
+Changing the file names...
+InputDAC_dummy.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/backup/InputDAC_dummy.yml.org.20170122121710.
+InputDAC_dummy.yml.offset_added has changed to be InputDAC_dummy.yml.
+Done!
+#### file diff check ####
+#########################
+###########################################################
+###########################################################
+2017年  1月 22日 日曜日 12:18:08 JST
+Running the program "ChangeInputDacOffset"...
+> ./misc/ChangeInputDacOffset -a -- InputDAC_dummy.yml -10
+[ChangeInputDacOffset] file name: InputDAC_dummy.yml    offset value: -10
+[ChangeInputDacOffset] ERROR: Could not access the file "InputDAC_dummy.yml".
+Changing the file names...
+InputDAC_dummy.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/backup/InputDAC_dummy.yml.org.20170122121808.
+InputDAC_dummy.yml.offset_added has changed to be InputDAC_dummy.yml.
+Done!
+#### file diff check ####
+#########################
+###########################################################
+###########################################################
+2017年  1月 22日 日曜日 12:18:47 JST
+Running the program "ChangeInputDacOffset"...
+> ./misc/ChangeInputDacOffset -a -- InputDAC_dummy.yml -10
+[ChangeInputDacOffset] file name: InputDAC_dummy.yml    offset value: -10
+[ChangeInputDacOffset] ================
+[ChangeInputDacOffset]  Target Channel 
+[ChangeInputDacOffset] ----------------
+[ChangeInputDacOffset]        0
+[ChangeInputDacOffset]        1
+[ChangeInputDacOffset]        2
+[ChangeInputDacOffset]        3
+[ChangeInputDacOffset]        4
+[ChangeInputDacOffset]        5
+[ChangeInputDacOffset]        6
+[ChangeInputDacOffset]        7
+[ChangeInputDacOffset]        8
+[ChangeInputDacOffset]        9
+[ChangeInputDacOffset]        10
+[ChangeInputDacOffset]        11
+[ChangeInputDacOffset]        12
+[ChangeInputDacOffset]        13
+[ChangeInputDacOffset]        14
+[ChangeInputDacOffset]        15
+[ChangeInputDacOffset]        16
+[ChangeInputDacOffset]        17
+[ChangeInputDacOffset]        18
+[ChangeInputDacOffset]        19
+[ChangeInputDacOffset]        20
+[ChangeInputDacOffset]        21
+[ChangeInputDacOffset]        22
+[ChangeInputDacOffset]        23
+[ChangeInputDacOffset]        24
+[ChangeInputDacOffset]        25
+[ChangeInputDacOffset]        26
+[ChangeInputDacOffset]        27
+[ChangeInputDacOffset]        28
+[ChangeInputDacOffset]        29
+[ChangeInputDacOffset]        30
+[ChangeInputDacOffset]        31
+[ChangeInputDacOffset]        32
+[ChangeInputDacOffset]        33
+[ChangeInputDacOffset]        34
+[ChangeInputDacOffset]        35
+[ChangeInputDacOffset]        36
+[ChangeInputDacOffset]        37
+[ChangeInputDacOffset]        38
+[ChangeInputDacOffset]        39
+[ChangeInputDacOffset]        40
+[ChangeInputDacOffset]        41
+[ChangeInputDacOffset]        42
+[ChangeInputDacOffset]        43
+[ChangeInputDacOffset]        44
+[ChangeInputDacOffset]        45
+[ChangeInputDacOffset]        46
+[ChangeInputDacOffset]        47
+[ChangeInputDacOffset]        48
+[ChangeInputDacOffset]        49
+[ChangeInputDacOffset]        50
+[ChangeInputDacOffset]        51
+[ChangeInputDacOffset]        52
+[ChangeInputDacOffset]        53
+[ChangeInputDacOffset]        54
+[ChangeInputDacOffset]        55
+[ChangeInputDacOffset]        56
+[ChangeInputDacOffset]        57
+[ChangeInputDacOffset]        58
+[ChangeInputDacOffset]        59
+[ChangeInputDacOffset]        60
+[ChangeInputDacOffset]        61
+[ChangeInputDacOffset]        62
+[ChangeInputDacOffset]        63
+[ChangeInputDacOffset] ================
+[ChangeInputDacOffset] The new input DAC file "InputDAC_dummy.yml.offset_added" has been created.
+Changing the file names...
+InputDAC_dummy.yml has moved to /home/DAQ/vme-easiroc/Controller/CFT_InputDAC/backup/InputDAC_dummy.yml.org.20170122121847.
+InputDAC_dummy.yml.offset_added has changed to be InputDAC_dummy.yml.
+Done!
+#### file diff check ####
+4,35c4,35
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+<   - 395
+---
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+>   - 385
+38,69c38,69
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+<   - 370
+---
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+>   - 360
+#########################
+###########################################################

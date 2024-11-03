@@ -1,0 +1,28 @@
+#for PiVeto
+
+EASIROC1:
+  Capacitor HG PA Fdbck: 200fF
+  Capacitor LG PA Fdbck: 200fF
+#  Time Constant HG Shaper: 50ns
+  Time Constant HG Shaper: 175ns # added by ChangeShapingTime
+#  Time Constant LG Shaper: 50ns
+  Time Constant LG Shaper: 175ns # added by ChangeShapingTime
+#  DAC code: 880 # base line
+  DAC code: 580 # baseline -300 (added by ChangeThresholdDacOffset)
+EASIROC2:
+  Capacitor HG PA Fdbck: same
+  Capacitor LG PA Fdbck: same
+#  Time Constant HG Shaper: same
+  Time Constant HG Shaper: 175ns # added by ChangeShapingTime
+#  Time Constant LG Shaper: same
+  Time Constant LG Shaper: 175ns # added by ChangeShapingTime
+
+# tempormary DAC base line
+#  DAC code: 880 # base line 
+  DAC code: 590 
+
+High Gain Channel: 15
+Probe Channel: 15
+Probe: Out_fs
+SelectableLogic: OR64
+TimeWindow: 1024
