@@ -12,7 +12,9 @@ They will be loaded at the beginning of the frontend process.
 - PedeSup
 
 ## Role of each directory
+```html
 <span style="color: red; ">**If you want to edit any values, you must create a new directory.**</span>
+```
 
 1. RegisterValue
 2. InputDAC
