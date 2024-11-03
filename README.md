@@ -6,14 +6,13 @@ Confirmed that it is the same as latest E40 setting. (/group/had/sks/E40/JPARC20
 ## How to use
 Create symbolic link for following three.
 They will be loaded at the beginning of the frontend process.
-(You can know more details in the userdevice.cc for the VME-EASIROC.)
 
 - RegisterValue
 - InputDAC
 - PedeSup
 
 ## Role of each directory
-**If you want to edit any values, you must create a new directory.**
+<span style="color: red; ">**If you want to edit any values, you must create a new directory.**</span>
 
 1. RegisterValue
 2. InputDAC
