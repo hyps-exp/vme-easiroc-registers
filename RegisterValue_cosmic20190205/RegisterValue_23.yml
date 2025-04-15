@@ -39,8 +39,8 @@ EASIROC2:
 #  DAC code: 670 # 3.5p.e. 
 
 High Gain Channel: 50
-Probe Channel: 48
-Probe: Out_fs
+Probe Channel: 17
+Probe: Out_ssh_HG
 SelectableLogic: OR32D
 #SelectableLogic: 48
 TimeWindow: 1024

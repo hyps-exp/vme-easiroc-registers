@@ -42,7 +42,7 @@ EASIROC2:
 
 High Gain Channel: 50
 Probe Channel: 48
-Probe: Out_fs
+Probe: Out_ssh_HG
 #SelectableLogic: 48
 SelectableLogic: OR64
 TimeWindow: 1024

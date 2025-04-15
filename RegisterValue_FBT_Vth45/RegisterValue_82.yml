@@ -34,5 +34,5 @@ High Gain Channel: 50
 Probe Channel: 48
 Probe: Out_fs
 SelectableLogic: OR64
-#SelectableLogic: 48
+#SelectableLogic: 10
 TimeWindow: 1024

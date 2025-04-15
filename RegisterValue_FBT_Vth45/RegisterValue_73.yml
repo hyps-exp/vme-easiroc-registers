@@ -30,9 +30,9 @@ EASIROC2:
 #  DAC code: 800 # 1.5p.e. 
 #  DAC code: 750 # 2.5p.e. 
 #  DAC code: 700 # 3.5p.e. 
-High Gain Channel: 50
+High Gain Channel: 48
 Probe Channel: 48
-Probe: Out_fs
+Probe: Out_ssh_HG
 SelectableLogic: OR64
 #SelectableLogic: 48
 TimeWindow: 1024
