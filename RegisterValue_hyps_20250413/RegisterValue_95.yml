@@ -22,9 +22,9 @@ EASIROC2:
   Time Constant LG Shaper: 175ns # added by ChangeShapingTime
 #  DAC code: 590 
 
-High Gain Channel: 15
+High Gain Channel: 16
 Probe Channel: 16
-Probe: Out_fs
+Probe: Out_ssh_HG
 SelectableLogic: OR32U
 #SelectableLogic: 16
 TimeWindow: 1024
