@@ -1,0 +1,45 @@
+
+EASIROC1:
+  Capacitor HG PA Fdbck: 200fF
+  Capacitor LG PA Fdbck: 200fF
+#  Time Constant HG Shaper: 50ns
+  Time Constant HG Shaper: 175ns # added by ChangeShapingTime
+#  Time Constant LG Shaper: 50ns
+  Time Constant LG Shaper: 175ns # added by ChangeShapingTime
+#  DAC code: 915 # base line
+  DAC code: 515 # baseline -400 (added by ChangeThresholdDacOffset)
+#  DAC code: 865 # ~70mV 
+#  DAC code: 815 #    
+#  DAC code: 715 # for trigger  
+#  DAC code: 615 # for trigger -300
+#  DAC code: 515 # for trigger -400
+#  DAC code: 415 # for trigger -500
+#  DAC code: 315 # for trigger -600 
+#  DAC code: 815 # 1.5p.e. 
+#  DAC code: 745 # 2.5p.e. 
+#  DAC code: 695 # 3.5p.e. 
+EASIROC2:
+  Capacitor HG PA Fdbck: same
+  Capacitor LG PA Fdbck: same
+#  Time Constant HG Shaper: same
+  Time Constant HG Shaper: 175ns # added by ChangeShapingTime
+#  Time Constant LG Shaper: same
+  Time Constant LG Shaper: 175ns # added by ChangeShapingTime
+#  DAC code: 910 # base line
+  DAC code: 510 # baseline -400 (added by ChangeThresholdDacOffset)
+#  DAC code: 860 # ~60mV 
+#  DAC code: 810 # ~130mV
+#  DAC code: 710 # for trigger  
+#  DAC code: 610 # for trigger -300 
+#  DAC code: 510 # for trigger -400
+#  DAC code: 410 # for trigger -500
+#  DAC code: 310 # for trigger -600 
+#  DAC code: 810 # 1.5p.e. 
+#  DAC code: 740 # 2.5p.e. 
+#  DAC code: 670 # 3.5p.e. 
+High Gain Channel: 50
+Probe Channel: 48
+Probe: Out_fs
+SelectableLogic: OR64
+#SelectableLogic: 48
+TimeWindow: 1024
