@@ -1,0 +1,38 @@
+
+EASIROC1:
+  Capacitor HG PA Fdbck: 200fF
+  Capacitor LG PA Fdbck: 200fF
+#  Time Constant HG Shaper: 50ns
+  Time Constant HG Shaper: 175ns # added by ChangeShapingTime
+#  Time Constant LG Shaper: 50ns
+  Time Constant LG Shaper: 175ns # added by ChangeShapingTime
+#  DAC code: 950 # base line
+  DAC code: 500 # baseline -450 (added by ChangeThresholdDacOffset)
+#  DAC code: 900 # ~60mV
+#  DAC code: 850 # ~130mV
+#  DAC code: 650 # 
+#  DAC code: 870 # 1.5p.e. 
+#  DAC code: 820 # 2.5p.e. 
+#  DAC code: 750 # 3.5p.e. 
+EASIROC2:
+  Capacitor HG PA Fdbck: same
+  Capacitor LG PA Fdbck: same
+#  Time Constant HG Shaper: same
+  Time Constant HG Shaper: 175ns # added by ChangeShapingTime
+#  Time Constant LG Shaper: same
+  Time Constant LG Shaper: 175ns # added by ChangeShapingTime
+#  DAC code: 960 # base line
+  DAC code: 510 # baseline -450 (added by ChangeThresholdDacOffset)
+#  DAC code: 910 # 60mV 
+#  DAC code: 860 # 
+#  DAC code: 660 # 
+#  DAC code: 860 # 1.5p.e. 
+#  DAC code: 780 # 2.5p.e. 
+#  DAC code: 700 # 3.5p.e. 
+
+High Gain Channel: 50
+Probe Channel: 48
+Probe: Out_fs
+SelectableLogic: OR64
+#SelectableLogic: 48
+TimeWindow: 1024

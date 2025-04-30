@@ -1,0 +1,46 @@
+EASIROC1:
+  Capacitor HG PA Fdbck: 200fF
+  Capacitor LG PA Fdbck: 200fF
+#  Time Constant HG Shaper: 50ns
+  Time Constant HG Shaper: 175ns # added by ChangeShapingTime
+#  Time Constant LG Shaper: 50ns
+  Time Constant LG Shaper: 175ns # added by ChangeShapingTime
+#  DAC code: 930 # base line
+  DAC code: 480 # baseline -450 (added by ChangeThresholdDacOffset)
+#  DAC code: 880 # ~60mV
+#  DAC code: 830 # 120~130mV
+#  DAC code: 730 # for trigger
+#  DAC code: 630 # for trigger -300
+#  DAC code: 530 # for trigger -400
+#  DAC code: 430 # for trigger -500
+#  DAC code: 330 # for trigger -600
+#  DAC code: 810 # 1.5p.e. 
+#  DAC code: 760 # 2.5p.e. 
+#  DAC code: 690 # 3.5p.e. 
+
+EASIROC2:
+  Capacitor HG PA Fdbck: same
+  Capacitor LG PA Fdbck: same
+#  Time Constant HG Shaper: same
+  Time Constant HG Shaper: 175ns # added by ChangeShapingTime
+#  Time Constant LG Shaper: same
+  Time Constant LG Shaper: 175ns # added by ChangeShapingTime
+#  DAC code: 880 # base line
+  DAC code: 430 # baseline -450 (added by ChangeThresholdDacOffset)
+#  DAC code: 830 # ~60mV line
+#  DAC code: 780 # ~130mV line
+#  DAC code: 680 # for trigger
+#  DAC code: 580 # for trigger -300
+#  DAC code: 480 # for trigger -400
+#  DAC code: 380 # for trigger -500
+#  DAC code: 280 # for trigger -600
+#  DAC code: 790 # 1.5p.e. 
+#  DAC code: 740 # 2.5p.e. 
+#  DAC code: 670 # 3.5p.e. 
+
+High Gain Channel: 48
+Probe Channel: 48
+Probe: Out_ssh_HG
+SelectableLogic: OR64
+#SelectableLogic: 48
+TimeWindow: 1024
