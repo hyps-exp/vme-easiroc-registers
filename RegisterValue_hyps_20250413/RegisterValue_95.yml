@@ -9,9 +9,10 @@ EASIROC1:
   Time Constant LG Shaper: 175ns # added by ChangeShapingTime
 #  DAC code: 600 
 #  DAC code: 880 # base line
-  DAC code: 630 # baseline -250 (added by ChangeThresholdDacOffset)
+#  DAC code: 630 # baseline -250 (added by ChangeThresholdDacOffset)
 #  DAC code: 620 # noise line
-#  DAC code: 680 
+#  DAC code: 480 
+  DAC code: 380 
 #  DAC code: 580 
 EASIROC2:
   Capacitor HG PA Fdbck: same
