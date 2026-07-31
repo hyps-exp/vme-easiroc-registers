@@ -26,7 +26,7 @@ EASIROC2:
 #  DAC code: 730 # 2.5p.e.
 #  DAC code: 680 # 3.5p.e.
 
-High Gain Channel: 50
+High Gain Channel: 7
 Probe Channel: 48
 Probe: Out_fs
 SelectableLogic: OR64
